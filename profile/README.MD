@@ -138,4 +138,4 @@ By moving to a multidimensional framework, we create an AI that is:
 **Date:** March 2026
 
 ---
-**© 2026 Ravikash Gupta (QORANET)** *Licensed under the [BSL License](https://github.com/qor-lang/QOR?tab=License-1-ov-file) (or your preferred license).* All rights reserved. Unauthorized reproduction of this framework's logic is prohibited.
+**© 2026 Ravikash Gupta (QORANET)** *Licensed under the [BSL License](https://github.com/qor-lang/QOR?tab=License-1-ov-file).* All rights reserved. Unauthorized reproduction of this framework's logic is prohibited.
