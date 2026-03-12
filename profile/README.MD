@@ -1,4 +1,5 @@
 # WHITE PAPER: The QOR LANG — Stands for Quantified Ontological Reasoning Language. (The Language of AGI)
+
 ## Transitioning from Connectionist Transformers to Multi-Dimensional AGI
 
 ---
